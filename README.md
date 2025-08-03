@@ -87,3 +87,5 @@ Response: `{"success": true, "direction": "forward"}`
 Response: `{"success": true, "direction": "forward", "angle": 180}`
 
 ## Showcase
+
+https://github.com/user-attachments/assets/0070fd05-6d51-4941-95db-3a9dd5e6ac10
